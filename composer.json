@@ -1,0 +1,18 @@
+{
+    "name": "wcs/quete_composer",
+    "description": "Projet quete composer",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "autoload": {
+        "psr-4":{
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel",
+            "email": "a.rioncervi@gmail.com"
+        }
+    ]
+}
